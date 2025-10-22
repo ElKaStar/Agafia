@@ -1,0 +1,9 @@
+# Telegram Bot API
+python-telegram-bot==20.7
+
+# HTTP библиотека для работы с REST API
+requests==2.31.0
+
+# Для работы с SSL сертификатами
+certifi==2023.11.17
+urllib3==2.1.0
